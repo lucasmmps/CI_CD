@@ -2,4 +2,4 @@
     Eng Software III
 
 # Landing Page Informativa:
-https://nice-forest-03934c010.4.azurestaticapps.net/
+https://lively-flower-0e6c7fc10.5.azurestaticapps.net/
